@@ -13,10 +13,10 @@ UNSupport/
 
 *.swp
 *.save
-.project
+#.project
 .settings
-.cproject
-obj/
+#.cproject
+# obj/
 patches/
 .idea
 *.crf
